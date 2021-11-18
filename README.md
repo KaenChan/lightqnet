@@ -6,9 +6,9 @@ This is a demo code of the lightqnet:
 + lightqnet-dm050.pb, 0.62 MB
 + lightqnet-dm025.pb, 0.29 MB
 
-### TODO
+### Training Code
 
-Upload the training code.
+https://github.com/KaenChan/lightqnet-train
 
 ### Demo
 
