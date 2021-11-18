@@ -35,3 +35,17 @@ The results (ms) of runtime comparison on Intel i7-8700 CPU and Kirin 985 ARM.
 | LightQNet          | 3.98    | 4.02     | 3.30    | 3.21    | 2.57    | 5.57  |
 | LightQNetx0.5      | 2.37    | 2.02     | 1.82    | 1.72    | 1.61    | 2.24  |
 | LightQNetx0.25     | 1.97    | 1.65     | 1.55    | 1.53    | 1.50    | 2.16  |
+
+#### Reference
+If you find this repo useful, please consider citing:
+```
+@article{chen2021lightqnet,
+  title={LightQNet: Lightweight Deep Face Quality Assessment for Risk-Controlled Face Recognition},
+  author={Chen, Kai and Yi, Taihe and Lv, Qi},
+  journal={IEEE Signal Processing Letters},
+  volume={28},
+  pages={1878--1882},
+  year={2021},
+  publisher={IEEE}
+}
+```
